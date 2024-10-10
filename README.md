@@ -19,10 +19,10 @@ This project is an HR website that includes a Careers page, Application Form, Co
 
 ## Screenshots
 
-### 1. 
+### 1. Landing Page
 ![1](https://user-images.githubusercontent.com/29537650/87233521-f98e4880-c3e5-11ea-9c2b-cb269bf85202.png)
 
-### 2. 
+### 2. Careers Page
 ![2](https://user-images.githubusercontent.com/29537650/87233527-057a0a80-c3e6-11ea-9973-01ee301819d5.png)
 
 ### 3. 
