@@ -46,8 +46,8 @@ This project is an HR website that includes a Careers page, Application Form, Co
 ### 9. Admin Panel - Applications
 ![9](https://user-images.githubusercontent.com/29537650/87233541-13c82680-c3e6-11ea-8457-43fa5d09505d.png)
 
+### 10. Application Example
+![10](https://user-images.githubusercontent.com/29537650/87233542-1460bd00-c3e6-11ea-8865-c4a1c002dc44.png)
+
 ## License
 This project is licensed under the MIT License.
-
-
-![10](https://user-images.githubusercontent.com/29537650/87233542-1460bd00-c3e6-11ea-8865-c4a1c002dc44.png)
